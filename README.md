@@ -1,5 +1,8 @@
 ### 안녕하세요
 
+
+- 🦁Likelion 10th in CAU Representative Teacher
+
 <!--
 **unanchoi/unanchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
