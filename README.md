@@ -1,6 +1,6 @@
 ### 안녕하세요
 
-
+- 🦁Likelion 9th in CAU
 - 🦁Likelion 10th in CAU Representative Teacher
 
 <!--
