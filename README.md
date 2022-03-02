@@ -2,6 +2,8 @@
 
 - 🦁Likelion 9th in CAU
 - 🦁Likelion 10th in CAU Representative Teacher
+- 🐶Petnow Developer
+- 👩‍💻CUAI 5th
 
 <!--
 **unanchoi/unanchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
