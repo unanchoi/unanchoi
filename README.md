@@ -2,7 +2,7 @@
 
 - 🦁Likelion 9th in CAU
 - 🦁Likelion 10th in CAU Representative Teacher
-- 🐶Petnow Developer
+- 🐶Petnow Researcher & Developer
 - 👩‍💻CUAI 5th
 
 <!--
