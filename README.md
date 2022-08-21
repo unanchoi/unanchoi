@@ -11,6 +11,10 @@
 
 ![Unan's GitHub stats](https://github-readme-stats.vercel.app/api?username=unanchoi&show_icons=true&theme=radical)
 
+<br />
+
+## I'm learning...
+
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <br>
