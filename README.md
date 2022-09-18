@@ -4,13 +4,15 @@
 
 # 안녕하세요!
 
+![Unan's GitHub stats](https://github-readme-stats.vercel.app/api?username=unanchoi&show_icons=true&theme=radical)
+<!--
+
 - 🦁Likelion 9th
 - 🦁Likelion 10th Representative Teacher
 - 🐶Research & Development in Petnow
 - 🧠CUAI 5th
 
-![Unan's GitHub stats](https://github-readme-stats.vercel.app/api?username=unanchoi&show_icons=true&theme=radical)
-
+-->
 <br />
 
 ## I'm learning...
