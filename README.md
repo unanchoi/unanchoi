@@ -3,6 +3,11 @@
 </div>
 
 # 안녕하세요!
+- 🦁 Likelion 9th in CAU
+- 🦁 Likelion 10th in CAU, Representative Teacher
+- 🐶 Research & Development in Petnow
+- 🚀 SOPT 31th Server
+<br />
 
 ## I'm learning...
 
