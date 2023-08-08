@@ -6,7 +6,7 @@
 - 🦁 Likelion 9th, 11th in CAU
 - 🦁 Likelion 10th in CAU, Representative Teacher
 - 🐶 Research & Development in Petnow
-- 🚀 SOPT 31th, 32th Server
+- 🚀 SOPT 31th, 32th Server, 33th Server
 <br />
 
 ## I'm learning...
