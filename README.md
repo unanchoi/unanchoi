@@ -3,12 +3,6 @@
 </div>
 
 # 안녕하세요!
-- 🦁 Likelion 9th, 11th in CAU
-- 🦁 Likelion 10th in CAU, Representative Teacher
-- 🐶 Research & Development in Petnow
-- 🚀 SOPT 31th, 32th Server
-- 🚀 SOPT 33th Server Part Lead
-<br />
 
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=unanc2)](https://solved.ac/unanc2)
