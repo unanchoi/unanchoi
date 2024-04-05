@@ -3,12 +3,6 @@
 </div>
 
 # 안녕하세요!
-
-<!--
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=unanc2)](https://solved.ac/unanc2)
--->
-
-
 <!--
 **unanchoi/unanchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
